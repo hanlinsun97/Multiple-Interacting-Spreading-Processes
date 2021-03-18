@@ -10,4 +10,6 @@ The repository contains:
 - Simulation_Coll.py: Monte-Carlo simulations of collaborative processes.
 
 ## Acknowledgement
-If you find these code useful in your work, please cite Hanlin Sun, David Saad, and Andrey Y. Lokhov. "Competition, Collaboration, and Optimization in Multiple Interacting Spreading Processes." Physical Review X 11.1 (2021): 011048.
+If you find these code useful in your work, please cite
+
+Hanlin Sun, David Saad, and Andrey Y. Lokhov. "Competition, Collaboration, and Optimization in Multiple Interacting Spreading Processes." Physical Review X 11.1 (2021): 011048.
